@@ -6,3 +6,12 @@
    padding: 0;
    font-family: 'IBM Plex Sans Arabic';
 }
+
+.showcase {
+   position: absolute;
+   right: 0;
+   width: 100%;
+   min-height: 100vh;
+   padding: 100px;
+   display: flex;
+}
