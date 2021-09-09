@@ -16,8 +16,8 @@
    display: flex;
    justify-content: space-between;
    align-items: center;
-   background: ffffff;
-   color: 00ff00;
+   background: 111;
+   color: fff;
    z-index: 2;
 }
 .menu {
