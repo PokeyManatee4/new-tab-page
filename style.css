@@ -14,4 +14,11 @@
    min-height: 100vh;
    padding: 100px;
    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background: ffffff;
+   color: 00ff00;
+   z-index: 2;
+}
+.menu {
 }
