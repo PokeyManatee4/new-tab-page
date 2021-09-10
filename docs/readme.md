@@ -2,3 +2,6 @@ So The Docs Are Not Out Cause I Got To Make Step By Step So That Will Take A Whi
 <br>
 *Not Reconmend For Schools Because It Makes Noice Ok*
 </br>
+<br>
+"Just Srry About The Holdup Of The Time For How To Apply It"
+</br>
