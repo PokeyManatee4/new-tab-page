@@ -11,3 +11,14 @@ IMG.profile {
   width: 70px;
   height: 70px;
 }
+
+button.profile {
+    background-image: url(download (7).jpeg); /* 16px x 16px */
+    background-repeat: no-repeat;  /* make the background image appear only once */
+    cursor: pointer;        /* make the cursor like hovering over an <a> element */
+    vertical-align: middle; /* align the text vertically centered */
+    top: 8px;
+    right: 16px;
+    width: 70px;
+    height: 70px; 
+}
