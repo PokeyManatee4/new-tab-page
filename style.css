@@ -1,8 +1,7 @@
 IMG.google {
     cursor: hover;
     display: block;
-    margin-left: auto;
-    margin-right: auto 
+    center: 100%;
 }
 
 IMG.profile {
