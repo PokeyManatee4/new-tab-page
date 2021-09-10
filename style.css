@@ -26,6 +26,12 @@ button.profile {
     height: 70px; 
 }
 
-video.background {
- bottom: 100px;
+IMG.monkeymask {
+
+}
+
+button.monkeymask {
+ background-image: url(monkey with mask.png);
+ top: -10px;
+ down: 10px;   
 }
