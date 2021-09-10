@@ -1,5 +1,5 @@
 IMG.google {
-    cursor: hover;
+    cursor: pointer;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -12,14 +12,14 @@ IMG.profile {
   right: 16px;
   width: 70px;
   height: 70px;
-  cursor: hover;
+  cursor: pointer;
 }
 
 button.profile {
     background-image: url(download (7).jpeg);
     position: absolute;
     vertical-align: middle;
-    cursor: hover;
+    cursor: pointer;
     top: 8px;
     right: 16px;
     width: 70px;
@@ -32,7 +32,7 @@ top: 10px;
 down: 10px;
 height: 70px;
 width: 70px;
-cursor: wait;    
+cursor: pointer;    
 }
 
 button.monkeymask {
@@ -42,5 +42,5 @@ button.monkeymask {
  down: 10px;
  height: 70px;
  width: 70px;
- cursor: wait;
+ cursor: pointer;
 }
