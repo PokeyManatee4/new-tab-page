@@ -8,8 +8,8 @@ IMG.profile {
   position: absolute;
   top: 8px;
   right: 16px;
-  width: 10px;
-  height: 10px;
+  width: 30px;
+  height: 30px;
 }
 
 button.profile {
@@ -19,4 +19,6 @@ button.profile {
     vertical-align: middle; /* align the text vertically centered */
     top: 8px;
     right: 16px;
+    width: 30px;
+    height: 30px;    
 }
