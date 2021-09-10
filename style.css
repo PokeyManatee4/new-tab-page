@@ -12,12 +12,11 @@ IMG.profile {
 
 button.profile {
     background-image: url(download (7).jpeg); /* 16px x 16px */
-    background-color: 00ff00; /* make the button transparent */
     background-repeat: no-repeat;  /* make the background image appear only once */
-    border: none;           /* assuming we don't want any borders */
     cursor: pointer;        /* make the cursor like hovering over an <a> element */
-    padding: 10px,10px;     /* make text start to the right of the image */
     vertical-align: middle; /* align the text vertically centered */
     top: 8px;
     right: 16px;
+    width: 10px;
+    height: 10px;
 }
