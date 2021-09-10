@@ -1,7 +1,9 @@
 IMG.google {
     display: block;
     margin-left: auto;
-    margin-right: auto }
+    margin-right: auto
+    cursor: hover;
+}
 
 IMG.profile {
   display: block;
@@ -15,7 +17,8 @@ IMG.profile {
 button.profile {
     background-image: url(download (7).jpeg);
     position: absolute;
-    vertical-align: middle; 
+    vertical-align: middle;
+    cursor: hover;
     top: 8px;
     right: 16px;
     width: 70px;
