@@ -1,9 +1,9 @@
 IMG.google {
     cursor: hover;
     display: block;
-    margin-left: 50%;
-    margin-right: 50%;
-    bottom: 10%;
+    center: 50%;
+    top: 50%;
+    down: 8px;
 }
 
 IMG.profile {
