@@ -1,4 +1,9 @@
-IMG.displayed {
+IMG.google {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+IMG.profile {
     display: block;
     margin-left: auto;
     margin-right: auto }
