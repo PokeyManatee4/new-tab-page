@@ -11,7 +11,7 @@ IMG.profile {
 }
 
 button.profile {
-  display: block;
+  display: class=profile;
   position: absolute;
   top: 8px;
   right: 16px;
