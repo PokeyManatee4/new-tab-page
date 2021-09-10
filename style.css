@@ -2,6 +2,7 @@ IMG.google {
     cursor: hover;
     display: block;
     center: 100%;
+    left: 50%;
 }
 
 IMG.profile {
