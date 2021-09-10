@@ -1,1 +1,5 @@
-var audio = new Audio('Monkey.mp3');
+var Monk= new Audio('Monkey.mp3');
+
+document. onclick = function class=monkeymask() {
+Monk.play();
+}
