@@ -1,8 +1,8 @@
 IMG.google {
+    cursor: hover;
     display: block;
     margin-left: auto;
-    margin-right: auto
-    cursor: hover;
+    margin-right: auto 
 }
 
 IMG.profile {
@@ -12,6 +12,7 @@ IMG.profile {
   right: 16px;
   width: 70px;
   height: 70px;
+  cursor: hover;
 }
 
 button.profile {
