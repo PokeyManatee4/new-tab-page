@@ -27,11 +27,18 @@ button.profile {
 }
 
 IMG.monkeymask {
-
+position: fixed;
+top: -10px;
+ down: 10px;
+height: 70px;
+width: 70px;
 }
 
 button.monkeymask {
- background-image: url(monkey with mask.png);
+ background-image: url(Monkey With Mask.png);
+ position: absolute;
  top: -10px;
- down: 10px;   
+ down: 10px;
+ height: 70px;
+ width: 70px;
 }
