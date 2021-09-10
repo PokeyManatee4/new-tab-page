@@ -9,3 +9,10 @@ IMG.profile {
   top: 8px;
   right: 16px;
 }
+
+button.profile {
+  display: block;
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
