@@ -4,6 +4,8 @@ IMG.google {
     margin-right: auto }
 
 IMG.profile {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
+  display: block;
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
