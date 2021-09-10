@@ -28,6 +28,5 @@ button.profile {
 }
 
 video.background {
- top: 100%;
- left: 100%;
+ bottom: 100px;
 }
