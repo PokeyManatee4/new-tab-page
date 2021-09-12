@@ -30,8 +30,8 @@ IMG.monkeymask {
 position: fixed;
 top: 10px;
 down: 10px;
-height: 70px;
-width: 20px;
+height: 1px;
+width: 1px;
 cursor: pointer;    
 }
 
@@ -40,7 +40,7 @@ button.monkeymask {
  position: fixed;
  top: 10px;
  down: 10px;
- height: 70px;
- width: 70px;
+ height: 1px;
+ width: 1px;
  cursor: pointer;
 }
