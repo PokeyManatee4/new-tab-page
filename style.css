@@ -1,8 +1,7 @@
 IMG.google {
     cursor: wait;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: flex;
+    justify-content: center;
 }
 
 IMG.profile {
